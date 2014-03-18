@@ -1,0 +1,43 @@
+{
+  "name": "verb-readme-badges",
+  "description": "Badge templates for Verb, the markdown documentation generator with zero-configuration required.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/assemble/verb-readme-badges",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/assemble/verb-readme-badges/blob/master/LICENSE-MIT"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assemble/verb-readme-badges.git"
+  },
+  "bugs": {
+    "url": "https://github.com/assemble/verb-readme-badges/issues"
+  },
+  "main": "index.js",
+  "keywords": [
+    "badge",
+    "badges",
+    "boilerplates",
+    "docs",
+    "documentation",
+    "generate",
+    "github docs",
+    "github documentation",
+    "markdown",
+    "md",
+    "project documentation",
+    "readme",
+    "repo documentation",
+    "template",
+    "templates",
+    "verb templates",
+    "verb"
+  ]
+}

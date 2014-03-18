@@ -1,0 +1,1 @@
+{% if (typeof(travis) !== "undefined") { %} [![Build Status]({%= travis %}.png)]({%= travis %}) {% } else { %} {% console.log('"travis" property is not on the context. Travis badge will not render.') %} {% } %}
