@@ -1,7 +1,7 @@
 {
   "name": "verb-readme-badges",
   "description": "Readme badge templates.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/assemble/verb-readme-badges",
   "author": {
     "name": "Jon Schlinkert",
