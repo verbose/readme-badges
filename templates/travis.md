@@ -1,1 +1,1 @@
-{% if (typeof(travis) !== "undefined") { %} [![Build Status]({%= travis %}.png)]({%= travis %}) {% } else { %} {% console.log('"travis" property is not on the context. Travis badge will not render.') %} {% } %}
+{% if (typeof(travis) !== "undefined") { %} [![Build Status]({%= travis %}.png)]({%= travis %}) {% } else { %} {% log.fatal('\'travis\' badge cannot render because the \'travis\'\n                     property is not on the context. This is probably because\n                     you don\'t have a .travis.yml file in your project.') %} {% } %}
