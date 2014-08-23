@@ -13,7 +13,7 @@ Example:
 Results in:
 
 ```
-[![NPM version](https://badge.fury.io/js/your-project-name.png)](http://badge.fury.io/js/your-project-name)
+[![NPM version](https://badge.fury.io/js/your-project-name.svg)](http://badge.fury.io/js/your-project-name)
 ```
 
 
