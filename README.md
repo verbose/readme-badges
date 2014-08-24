@@ -6,15 +6,16 @@ These templates are automatically inserted by [Verb](https://github.com/assemble
 
 Example:
 
-```js
+```
 {%= badge("fury") %}
 ```
 
 Results in:
 
-```markdown
-[![NPM version](https://badge.fury.io/js/your-project-name.png)](http://badge.fury.io/js/your-project-name)
 ```
+[![NPM version](https://badge.fury.io/js/your-project-name.svg)](http://badge.fury.io/js/your-project-name)
+```
+
 
 ## Author
 

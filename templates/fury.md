@@ -1,1 +1,1 @@
-[![NPM version](https://badge.fury.io/js/{%= name %}.png)](http://badge.fury.io/js/{%= name %})
+[![NPM version](https://badge.fury.io/js/{%= name %}.svg)](http://badge.fury.io/js/{%= name %})
