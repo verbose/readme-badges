@@ -1,1 +1,1 @@
-[![NPM](https://nodei.co/npm/{%= name %}.svg)](https://nodei.co/npm/{%= name %}/)
+[![NPM](https://nodei.co/npm/{%= name %}.png)](https://nodei.co/npm/{%= name %}/)
