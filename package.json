@@ -10,15 +10,15 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/assemble/verb-readme-badges/blob/master/LICENSE-MIT"
+      "url": "https://github.com/verbose/verb-readme-badges/blob/master/LICENSE-MIT"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/assemble/verb-readme-badges.git"
+    "url": "https://github.com/verbose/verb-readme-badges.git"
   },
   "bugs": {
-    "url": "https://github.com/assemble/verb-readme-badges/issues"
+    "url": "https://github.com/verbose/verb-readme-badges/issues"
   },
   "main": "index.js",
   "keywords": [
