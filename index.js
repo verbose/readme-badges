@@ -1,6 +1,7 @@
-var path = require('path');
-var dir = path.join(__dirname, 'templates');
+'use strict';
 
-module.exports = require('fs').readdirSync(dir).map(function(fp) {
-  return path.resolve(dir, fp);
-});
+/**
+ * Absolute file path to the `templates` directory.
+ */
+
+module.exports = require('path').join(__dirname, 'templates');
