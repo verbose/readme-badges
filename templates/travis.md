@@ -1,1 +1,2 @@
-{% if (typeof(travis) !== "undefined") { %} [![Build Status]({%= travis %}.svg)]({%= travis %}) {% } else { %} {% log.fatal('\'travis\' badge cannot render because the \'travis\'\n                     property is not on the context. This is probably because\n                     you don\'t have a .travis.yml file in your project.') %} {% } %}
+{% if (typeof travis_url !== "undefined") { %} [![Build Status]({%= travis_url %}.svg)]({%= travis_url %}) {% } else { %} {%= error('\n' + wordwrap('\'travis\' badge cannot render because the \'travis\' property is not on the context. This might be because you don\'t have a .travis.yml file in your project.') + '\n') %} {% } %}
+[![build status](http://img.shields.io/travis/badges/shields.svg)](https://travis-ci.org/badges/shields)
