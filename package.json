@@ -1,25 +1,27 @@
 {
-  "name": "verb-readme-badges",
+  "name": "readme-badges",
   "description": "Readme badge templates.",
-  "version": "0.1.2",
-  "homepage": "https://github.com/assemble/verb-readme-badges",
+  "version": "0.2.0",
+  "homepage": "https://github.com/assemble/readme-badges",
   "author": {
     "name": "Jon Schlinkert",
     "url": "https://github.com/jonschlinkert"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/verbose/verb-readme-badges/blob/master/LICENSE-MIT"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/verbose/verb-readme-badges.git"
+    "url": "https://github.com/verbose/readme-badges.git"
   },
   "bugs": {
-    "url": "https://github.com/verbose/verb-readme-badges/issues"
+    "url": "https://github.com/verbose/readme-badges/issues"
   },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/verbose/readme-badges/blob/master/LICENSE"
+  },
+  "files": [
+    "index.js",
+    "templates/"
+  ],
   "main": "index.js",
   "keywords": [
     "badge",
