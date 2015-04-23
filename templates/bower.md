@@ -1,1 +1,1 @@
-[![Bower](https://img.shields.io/bower/v/bootstrap.svg)]()
+[![Bower](https://img.shields.io/bower/v/{%= name %}.svg)]()
