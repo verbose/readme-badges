@@ -31,22 +31,23 @@
     "coderwall",
     "coveralls",
     "david",
+    "doc",
     "docs",
     "documentation",
     "drone",
     "fury",
     "generate",
     "github",
+    "include",
     "markdown",
     "md",
     "npm",
     "project",
     "readme",
     "repo",
+    "shield",
     "template",
-    "templates",
     "travis",
     "verb"
-  ],
-  "devDependencies": {}
+  ]
 }
