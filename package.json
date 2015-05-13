@@ -1,7 +1,7 @@
 {
   "name": "readme-badges",
   "description": "Readme badge templates.",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "homepage": "https://github.com/assemble/readme-badges",
   "author": {
     "name": "Jon Schlinkert",
