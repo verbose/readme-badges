@@ -1,23 +1,14 @@
 {
   "name": "readme-badges",
   "description": "Readme badge templates.",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "homepage": "https://github.com/assemble/readme-badges",
-  "author": {
-    "name": "Jon Schlinkert",
-    "url": "https://github.com/jonschlinkert"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/verbose/readme-badges.git"
-  },
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "verbose/readme-badges",
   "bugs": {
     "url": "https://github.com/verbose/readme-badges/issues"
   },
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/verbose/readme-badges/blob/master/LICENSE"
-  },
+  "license": "MIT",
   "files": [
     "index.js",
     "templates/"
@@ -49,5 +40,10 @@
     "template",
     "travis",
     "verb"
-  ]
+  ],
+  "verb": {
+    "related": {
+      "list": ["verb"]
+    }
+  }
 }
